@@ -1,4 +1,4 @@
-const CACHE_NAME = 'darshan-portfolio-v1';
+const CACHE_NAME = 'nilanka-portfolio-v1';
 const urlsToCache = [
   '/',
   '/index.html',
@@ -7,7 +7,7 @@ const urlsToCache = [
   '/icons/icon-192x192.png',
   '/icons/icon-512x512.png',
   '/icons/apple-touch-icon.png',
-  '/assets/Darshan_Gaikwad_Resume.pdf',
+  '/assets/Cv.NilankaJayalath.pdf',
   '/images/profile.jpg'
 ];
 
